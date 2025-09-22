@@ -50,8 +50,8 @@
 ## 🏅 Certifications & Badges
 
 <p align="center">
-  <a href="https://www.credly.com/badges/46e6bcb4-2f42-41ee-85c0-ef502b208447" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6a55d70c-9f24-4243-8e42-f823a132f474" width="120" height="120" alt="日本語"/>
+  <a href="https://www.credly.com/badges/54f76492-6c67-484a-b183-c8224d2320f3" target="_blank">
+    <img src="https://github.com/user-attachments/assets/54f76492-6c67-484a-b183-c8224d2320f3" width="120" height="120" alt="日本語"/>
   </a>
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
